@@ -1,5 +1,7 @@
 # React Todo App with API
 
+- [DEMO LINK](https://Stasandrushchak.github.io/todo-app_with_api/)
+
 Todo App allows you to add, delete and edit todos to the list:
 
 - hide or disable elements that can't be used at the moment
